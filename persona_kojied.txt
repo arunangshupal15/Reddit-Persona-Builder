@@ -1,0 +1,103 @@
+# kojied
+
+| Age | Occupation | Status | Location | Tier | Archetype |
+|---|---|---|---|---|---|
+|  | occupation: iOS developer, specifically building in visionOS | relationship status not specified | relationship status not specified |  |  |
+
+**Key Traits:** No relevant information found. | Introvert/extrovert: no relevant information found., interests: sports (basketball), communication style: casual, opinionated | Introvert/extrovert - no relevant information found., interests - history, archaeology, linguistics, communication style - informal, possibly sarcastic or critical. | Introvert (as they mention they've been lurking in the channel for a while) | Analytical (as they want to develop a mental model for purchases), curious (as they are seeking feedback on their idea) | Interest in finance/investing, possibly analytical/risk-taker
+
+## Motivations
+
+- values - enjoying games, priorities - completing games ██████
+- enjoys playing games ██
+- prioritizes self-care ██
+- seeking a better life ██
+- values: fairness in sports, values: authenticity in sports, priorities: enjoying sports without distractions ██████████
+- values a certain level of maturity and sophistication in social environments █████████
+- promoting the adoption of AVP technology █████
+- excited about potential collaborations between Pokémon and AVP ███████
+- wants to increase productivity with new device █████
+- values cost-effectiveness ███
+- wants to increase productivity ███
+- what drives them - uncovering hidden truths, values - critical thinking, skepticism, priorities - understanding the origins of Western civilization. ██████████
+- drive companies to take ESG ratings seriously, make a positive environmental impact ██████████
+- desire to understand consumer behavior, interest in personal finance ████████
+- values financial literacy ███
+- financial management, seeking convenience █████
+- driven by financial gain, interested in market trends ██████
+- driven by financial gain ███
+
+## Personality
+
+Introvert  ███  |   ██  Extrovert
+Intuition  [ ][ ][ ][ ][ ]    Sensing
+Feeling    [ ][ ][ ][ ][ ]   Thinking
+Perceiving [ ][ ][ ][ ][ ]    Judging
+
+> **"Here's a short, natural quote that this person might say:
+
+"I'm really excited about the potential of AVP tech, but it's frustrating when I hit roadblocks like software compatibility issues. Hopefully, we can get more developers on board to create some killer apps."
+
+This quote reflects his personality as a tech-savvy, enthusiastic, and slightly opinionated individual who is passionate about technology and innovation. The mention of "roadblocks" and "frustrating" also hints at his pragmatic and problem-solving"**
+
+## Behaviour & Habits
+
+- patterns - starting games, not finishing them
+- plays games, often doesn't finish them
+- daily routines: No relevant information found., preferences: watching sports with minimal ads, patterns: follows sports news and trends
+- frequent bars in his local area, likely a regular in the community
+- active on Reddit, engaging with others on topics of interest
+- uses GitHub, Visual Studio Code, and Xcode for work
+- works on a computer regularly
+- uses GitHub
+- uses Visual Studio Code
+- uses Xcode
+- daily routines - No relevant information found., preferences - reading, learning, discussing ideas, patterns - referencing historical events and pop culture.
+- No specific daily routines or preferences mentioned
+- uses Robinhood and WB for financial transactions
+- actively trading options, monitoring market news
+- actively trading options
+
+## Frustrations
+
+- complaints - lack of late game content
+- lack of late game content
+- dealing with demanding situations, struggling with tier 3 upgrade
+- complaints about tier 3 upgrade being demanding
+- complaints: excessive ad breaks, complaints: inconsistent referee calls, complaints: influence of gambling in sports
+- feeling out of place and uncomfortable in overly rowdy or youthful environments
+- feeling violated or disrespected by the behavior of younger people
+- limited software compatibility with AVP
+- high latency with Mac virtual display
+- expensive device with limited functionality
+- limited software compatibility
+- expensive device
+- complaints - perceived control of information by the wealthy, dislikes - manipulation of history, problems they face - accessing accurate information.
+- current method of consumer activism not effective, companies not incentivized to make changes
+- limitations on transfer amounts and frequency
+- finding expensive put options, uncertainty about market movements
+- finding expensive put options
+
+## Goals & Needs
+
+- what they want to achieve - completing games, what they need - more game content
+- what they want to achieve - completing games
+- more engaging game content
+- managing or coping with the demands of tier 3 upgrade
+- needs help or strategies to handle tier 3 upgrade
+- what they want to achieve: No relevant information found., what they need: improvements in sports broadcasting (reduced ads, consistent ref calls, no gambling)
+- seeks a sense of community and social connection in his local area, possibly with people of similar interests and values
+- wants to see Pokémon and AVP collaboration happen sooner rather than later
+- needs software compatibility for work
+- wants to fully utilize expensive device
+- seeks productivity and efficiency
+- needs software compatibility
+- wants to fully utilize device
+- seeks productivity
+- what they want to achieve - shedding light on the true history of Western civilization, what they need - access to unbiased information, critical thinking tools.
+- needs consumers to be aware of and act on ESG ratings, needs companies to prioritize ESG ratings
+- needs feedback on their app idea, wants to understand how others make purchase decisions
+- wants to create a tool to help people track gratification from purchases
+- transfer funds efficiently, possibly exceeding 50k transfer limit
+- seeking investment strategies, wanting to adapt to market changes
+- seeking investment strategies
